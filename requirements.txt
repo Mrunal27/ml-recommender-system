@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+surprise
+fastapi
+uvicorn
+sqlalchemy
+mlflow
+prefect
+pytest
